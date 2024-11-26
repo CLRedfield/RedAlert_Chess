@@ -1,5 +1,10 @@
 Hi, I’m @CLRedfield
 a student from Shanghai Jiao Tong University
-I usually like to creat some interesting small projects here!
-and if you can read Chinese...
-B站关注CL_Redfield喵,谢谢喵
+This is a little game like chess
+but you can control the units in RedAlert2
+
+You can choose one of 4 unique forces
+this game maybe a bit unbalance but interesting
+hope you enjoy the game
+
+video BV1NbDqYjE3x or BV1UQUXYZEmB in bilibili
